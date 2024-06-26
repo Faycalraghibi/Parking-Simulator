@@ -29,9 +29,6 @@ The Parking Simulator is a Java application designed to simulate parking scenari
 - Java 11 or higher
 - JavaFX 17.0.2
 - ControlsFX 11.1.2
-- BootstrapFX 0.4.0
-- FXGL 17.2
-- JUnit Jupiter 5.9.2 (for testing)
 
 ## Prerequisites
 
