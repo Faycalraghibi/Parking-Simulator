@@ -11,7 +11,7 @@ This project is a Parking Simulator application built using JavaFX and Maven.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Notes](#license)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ Before running this application, ensure you have Java Development Kit (JDK) 11 o
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ParkingSimulator.git
+   git clone https://github.com/Faycalraghibi/ParkingSimulator.git
    ```
 
 2. Navigate into the project directory:
@@ -68,9 +68,3 @@ mvn javafx:run
 ## Contributing
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, feel free to open an issue or create a pull request.
-
-### Notes:
-
-- Replace `your-username` in the GitHub clone URL with your actual GitHub username or the repository URL.
-- Ensure to update the `Introduction`, `Features`, and `Usage` sections with specific details about your Parking Simulator application.
-- Include additional sections or information as per your project's needs, such as troubleshooting tips, advanced configuration, or deployment instructions.
